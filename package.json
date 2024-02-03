@@ -1,0 +1,19 @@
+{
+  "name": "@taalpha/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config for my projects",
+  "repository": {
+    "url": "git+https://github.com/tokisakiyuu/prettier-config.git"
+  },
+  "author": {
+    "name": "TokisakiYuu",
+    "email": "tokisakiyuu@qq.com",
+    "url": "https://github.com/tokisakiyuu"
+  },
+  "main": "config.json",
+  "files": [
+    "config.json"
+  ],
+  "license": "MIT",
+  "prettier": "./config.json"
+}
