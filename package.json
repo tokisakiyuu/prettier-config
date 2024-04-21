@@ -15,5 +15,8 @@
     "config.json"
   ],
   "license": "MIT",
-  "prettier": "./config.json"
+  "prettier": "./config.json",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0"
+  }
 }
